@@ -1,0 +1,12 @@
+/* .icon .fill {
+  background-color: red;
+} */
+/* .test {
+  fill: red;
+  background-color: blue;
+  color: red;
+} */
+
+svg path{
+  stroke: red;
+}
